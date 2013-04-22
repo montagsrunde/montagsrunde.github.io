@@ -66,7 +66,7 @@ article{
 
 /* Sliding panels */
 .curtains>li {
-    background:#FFF url(img/blizzard.png);
+    /*background:#FFF url(img/blizzard.png);*/
     box-shadow:0 0 12px #666;
 }
     .curtains>li:last-child{box-shadow:none}
@@ -91,7 +91,7 @@ article{
 /* Section 1 */
 
 #section-1{
-    background:url(47466095313435c18ef192a5575880ec.jpg) 50% 0 no-repeat;
+    background:url(c2749f8e5a106fd6c5440b373e2d7591.jpg) 50% 0 no-repeat;
     background-size:cover;
 }
 
